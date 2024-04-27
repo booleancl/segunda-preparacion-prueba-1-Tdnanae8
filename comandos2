@@ -6,7 +6,6 @@ cd externos
 cd pendientes
 rm lista.txt
 cd ..
-cd ..
 rmdir pendientes
 cd ..
 rmdir externos
