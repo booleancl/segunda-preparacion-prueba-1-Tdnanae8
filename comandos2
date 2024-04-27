@@ -8,8 +8,8 @@ rm lista.txt
 cd ..
 rmdir pendientes
 cd ..
-rmdir externos
 rm lista.txt
+rmdir externos
 
 
 
